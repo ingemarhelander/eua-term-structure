@@ -1,0 +1,7 @@
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+docs/
+*.mat
+CLAUDE.md
